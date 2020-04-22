@@ -2,13 +2,13 @@
 
 This project and README file were created at April 2020 during the Corona crisis.
 
-### Project Title
+### Project Title:
 
-Replace the Project Title
+Explore US Bikeshare Date
 
 ### Description
 
-Describe what your project is about and what it does
+The project is about exploring US Bikeshare Data for the cities of New York City, Chicago, and Washington, DC. that can be interactively analyzed by the user.
 
 ### Files used
 
