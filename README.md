@@ -12,7 +12,7 @@ The project is about exploring US Bikeshare Data for the cities of New York City
 
 ### Files used
 
-Include the files used
+CSV files with bikeshare data from Chicago, New York City and Wahsington DC are used.
 
 ### Credits
 
