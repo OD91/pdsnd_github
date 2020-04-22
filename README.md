@@ -16,4 +16,4 @@ CSV files with bikeshare data from Chicago, New York City and Wahsington DC are 
 
 ### Credits
 
-Credits are going to Google ans stackoverflow.
+Credits are going to Google ans stackoverflow. Further credits are going to Udacity and its brilliant education approach. This will be or even is the future of education.
