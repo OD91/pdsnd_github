@@ -218,7 +218,8 @@ def display_data(df):
             parsed_row = json.loads(row)
             json_row = json.dumps(parsed_row, indent=2)
             print(json_row)
-    
+
+# This main function is responsible for executing all predefined function in the desired sequence    
 def main():
     while True:
         city, month, day = get_filters()
